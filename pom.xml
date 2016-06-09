@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-            <groupId>${project.groupId}</groupId>
+            <groupId>ke.go.moh.oec</groupId>
             <artifactId>fingerprintmanager</artifactId>
             <version>${project.version}</version>
         </dependency>
