@@ -7,15 +7,15 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>fingerprintmanager</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
             <groupId>griaule</groupId>
             <artifactId>griaule</artifactId>
             <version>1.0</version>
             <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>ke.go.moh.oec</groupId>
+            <artifactId>fingerprintmanager</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
     <properties>
